@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/marieALaporte/socio.svg?branch=master)](https://travis-ci.org/marieALaporte/socio)
 [![DOI](https://zenodo.org/badge/13996/marieALaporte/socio.svg)](https://zenodo.org/badge/latestdoi/13996/marieALaporte/socio)
 
-# SEONT
+# SEOnt
 
 
 This ontology is the socio-economic ontology developed by CGIAR and partners. Socio-economic ontology team gratefully acknowledges the   Platform for big data in agriculture (https://bigdata.cgiar.org) and CGIAR Research program on Policies, Instiutions and Markets(http://pim.cgiar.org/) for their financial support to implement this ontology. 
